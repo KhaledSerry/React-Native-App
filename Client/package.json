@@ -1,0 +1,22 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^33.0.6",
+    "react": "^16.8.6",
+    "react-native": "^0.59.9",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-slider": "^0.11.0",
+    "react-native-vector-icons": "^6.5.0",
+    "react-navigation": "^3.11.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
